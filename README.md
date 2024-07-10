@@ -9,13 +9,13 @@ Group Project that uses Data Visualizations or Data Engineering.
 
 Our Group decided to go the .... route.
 
-This project will review Covid-19 data sets and will compare deaths from Covid-19 with Influenza and Pneumonia from 2020-2024. The data sets are for the United States as a whole and then will be broken down specifically to the state of Texas.
+This project will review Covid-19 data sets and will compare deaths from Covid-19, Influenza and Pneumonia from 2020-2024. The data sets are for the United States as a whole and then will be broken down specifically to the state of Texas.
 
 Specifically this project will review:
 - Total number of deaths by sex for Covid-19, Influenza and Pneumonia.
 - Total number of deaths by age range for Covid-19, Influenza and Pneumonia.
 - Total number (percentage) of deaths for each individual for each illness.
-- While taking into consideration the total population for the United State and Texas based on the US Census which was last conducted/updated in 2020.
+- While taking into consideration the total population for the United State and Texas based on the US Census data which was last updated in 2021.
 
 
 
@@ -24,6 +24,7 @@ Specifically this project will review:
 - https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku/about_data
 - https://www.census.gov/data.html
 - https://data.census.gov/table?q=Population%20Total%20with%20age&g=010XX00US&y=2021
+- https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html
 
 # Data Visualization Track Requirements
 ## Data and Delivery
