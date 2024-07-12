@@ -6,6 +6,7 @@ Group Project that uses Data Visualizations or Data Engineering.
 - Dee Dixon
 - Kayli Smith
 - Tyler Potts
+- Lisa Ybarra
 
 Our Group decided to go the .... route.
 
