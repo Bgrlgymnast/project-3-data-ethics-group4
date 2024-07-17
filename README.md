@@ -28,6 +28,8 @@ Specifically this project will review:
 - https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html
 - https://github.com/matteo-psnt/US-city-visualization/blob/master/city_data/city_pop_2020.csv
 - https://github.com/kelvins/US-Cities-Database
+- https://github.com/Teamdataviz/2020_US_population_18plus/blob/main/sc-est2020-18%2Bpop-res%20(1).csv
+- https://www.convertcsv.com/csv-to-geojson.htm
 
 # Data Visualization Track Requirements
 ## Data and Delivery

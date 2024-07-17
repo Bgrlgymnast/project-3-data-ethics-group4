@@ -1,4 +1,4 @@
-id,Data As Of,Totals By,State,Sex,Age Group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Influenza Deaths
+id,Data As Of,Totals By,STATE,Sex,Age Group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Influenza Deaths
 17,2023-09-27,By Total,United States,Male,All Ages,629728,6469164,645490,10848
 18,2023-09-27,By Total,United States,Male,Under 1 year,284,40371,586,40
 19,2023-09-27,By Total,United States,Male,0-17 years,910,76420,1601,282
