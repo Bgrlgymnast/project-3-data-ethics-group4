@@ -26,6 +26,8 @@ Specifically this project will review:
 - https://www.census.gov/data.html
 - https://data.census.gov/table?q=Population%20Total%20with%20age&g=010XX00US&y=2021
 - https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html
+- https://github.com/matteo-psnt/US-city-visualization/blob/master/city_data/city_pop_2020.csv
+- https://github.com/kelvins/US-Cities-Database
 
 # Data Visualization Track Requirements
 ## Data and Delivery
