@@ -1,4 +1,4 @@
-,id,STATE,Pop_2020,LATITUDE,LONGITUDE,Data As Of,Totals By,Sex,Age Group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Influenza Deaths
+FIELD1,id,STATE,Pop_2020,LATITUDE,LONGITUDE,Data As Of,Totals By,Sex,Age Group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Influenza Deaths
 0,1,Alabama,4921532,31.575479,-85.279044,2023-09-27,By Total,All Sexes,All Ages,21520,231602,17619,356
 1,2,Alaska,731158,55.999722,-161.207778,2023-09-27,By Total,All Sexes,All Ages,1492,20039,1486,48
 2,3,Arizona,7421401,33.942778,-113.173333,2023-09-27,By Total,All Sexes,All Ages,30307,284393,30328,377
