@@ -30,6 +30,9 @@ Specifically this project will review:
 - https://github.com/kelvins/US-Cities-Database
 - https://github.com/Teamdataviz/2020_US_population_18plus/blob/main/sc-est2020-18%2Bpop-res%20(1).csv
 - https://www.convertcsv.com/csv-to-geojson.htm
+- https://stackoverflow.com/questions/59193983/leaflet-show-popup-on-hover-with-the-location-of-the-mouse
+- https://github.com/TheRensselaerIDEA/COVIDMINDER/issues/102
+- https://www.rdocumentation.org/packages/leafletCN/versions/0.2.2/topics/addTitle
 
 # Data Visualization Track Requirements
 ## Data and Delivery
