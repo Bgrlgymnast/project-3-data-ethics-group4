@@ -1,0 +1,18 @@
+id,Data As Of,Totals By,STATE,Sex,Age Group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Influenza Deaths
+0,2023-09-27,By Total,United States,All Sexes,All Ages,1146774,12303399,1162844,22229
+1,2023-09-27,By Total,United States,All Sexes,Under 1 year,519,73213,1056,64
+2,2023-09-27,By Total,United States,All Sexes,0-17 years,1696,130970,2961,509
+3,2023-09-27,By Total,United States,All Sexes,1-4 years,285,14299,692,177
+4,2023-09-27,By Total,United States,All Sexes,5-14 years,509,22008,818,219
+5,2023-09-27,By Total,United States,All Sexes,15-24 years,3021,133459,3175,206
+6,2023-09-27,By Total,United States,All Sexes,18-29 years,7030,231382,7038,329
+7,2023-09-27,By Total,United States,All Sexes,25-34 years,12401,278680,11706,464
+8,2023-09-27,By Total,United States,All Sexes,30-39 years,19886,348041,18395,644
+9,2023-09-27,By Total,United States,All Sexes,35-44 years,30108,416477,27301,797
+10,2023-09-27,By Total,United States,All Sexes,40-49 years,46260,511478,41105,1002
+11,2023-09-27,By Total,United States,All Sexes,45-54 years,71388,709522,64918,1452
+12,2023-09-27,By Total,United States,All Sexes,50-64 years,203071,2030691,202077,4345
+13,2023-09-27,By Total,United States,All Sexes,55-64 years,159712,1604904,161910,3450
+14,2023-09-27,By Total,United States,All Sexes,65-74 years,256806,2509095,272676,4676
+15,2023-09-27,By Total,United States,All Sexes,75-84 years,300162,3034906,317267,5348
+16,2023-09-27,By Total,United States,All Sexes,85 years and over,311863,3506836,301325,5376
