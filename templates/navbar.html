@@ -1,0 +1,42 @@
+<nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
+    <div class="container">
+        <a href="/" class="navbar-brand">Flask COVID</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navmenu">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a href="/" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/map" class="nav-link">Map</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<script>
+
+    // Function to update active page
+
+    function updateActivePage() {
+        let path = "{{path | safe}}"
+        let navLinks = Array.from(document.getElementsByClassName("nav-link"))
+        let href
+        navLinks.forEach(navLink => {
+            href = String(navLink.href)
+            href = href.slice(href.lastIndexOf('/'))
+            if (href == path) {
+                navLink.classList.add("active")
+            } else {
+                navLink.classList.remove("active")
+            }
+        })
+    }
+
+    // Perform update on active page
+
+    updateActivePage()
+
+</script>

@@ -1,0 +1,1127 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.279044,31.575479 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "id":1,
+    "STATE":"Alabama",
+    "Pop_2020":4921532,
+    "STATE_CODE":"AL",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":21520,
+    "Total Deaths":231602,
+    "Pneumonia Deaths":17619,
+    "Influenza Deaths":356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.207778,55.999722 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "id":2,
+    "STATE":"Alaska",
+    "Pop_2020":731158,
+    "STATE_CODE":"AK",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":1492,
+    "Total Deaths":20039,
+    "Pneumonia Deaths":1486,
+    "Influenza Deaths":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.173333,33.942778 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "id":3,
+    "STATE":"Arizona",
+    "Pop_2020":7421401,
+    "STATE_CODE":"AZ",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":30307,
+    "Total Deaths":284393,
+    "Pneumonia Deaths":30328,
+    "Influenza Deaths":377
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.903325,35.046956 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "id":4,
+    "STATE":"Arkansas",
+    "Pop_2020":3030522,
+    "STATE_CODE":"AR",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":12663,
+    "Total Deaths":140174,
+    "Pneumonia Deaths":13453,
+    "Influenza Deaths":287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.218576,38.200413 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "id":5,
+    "STATE":"California",
+    "Pop_2020":39368078,
+    "STATE_CODE":"CA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":109248,
+    "Total Deaths":1178346,
+    "Pneumonia Deaths":125177,
+    "Influenza Deaths":1753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.984575,39.420256 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "id":6,
+    "STATE":"Colorado",
+    "Pop_2020":5807719,
+    "STATE_CODE":"CO",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":15378,
+    "Total Deaths":176094,
+    "Pneumonia Deaths":15215,
+    "Influenza Deaths":394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.007222,41.860556 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "id":7,
+    "STATE":"Connecticut",
+    "Pop_2020":3557006,
+    "STATE_CODE":"CT",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":12571,
+    "Total Deaths":130502,
+    "Pneumonia Deaths":10461,
+    "Influenza Deaths":216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.674729,39.610187 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "id":8,
+    "STATE":"Delaware",
+    "Pop_2020":986809,
+    "STATE_CODE":"DE",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":3445,
+    "Total Deaths":41037,
+    "Pneumonia Deaths":3448,
+    "Influenza Deaths":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0366,38.895 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "id":9,
+    "STATE":"District of Columbia",
+    "Pop_2020":712816,
+    "STATE_CODE":"DC",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":2231,
+    "Total Deaths":25770,
+    "Pneumonia Deaths":3010,
+    "Influenza Deaths":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.480531,29.796996 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "id":10,
+    "STATE":"Florida",
+    "Pop_2020":21733312,
+    "STATE_CODE":"FL",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":81894,
+    "Total Deaths":915140,
+    "Pneumonia Deaths":97245,
+    "Influenza Deaths":1270
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.306845,31.96484 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "id":11,
+    "STATE":"Georgia",
+    "Pop_2020":10710017,
+    "STATE_CODE":"GA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":36499,
+    "Total Deaths":384074,
+    "Pneumonia Deaths":34155,
+    "Influenza Deaths":526
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.933237,21.390795 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "id":12,
+    "STATE":"Hawaii",
+    "Pop_2020":1407006,
+    "STATE_CODE":"HI",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":1943,
+    "Total Deaths":47252,
+    "Pneumonia Deaths":3635,
+    "Influenza Deaths":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.818124,42.976717 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "id":13,
+    "STATE":"Idaho",
+    "Pop_2020":1826913,
+    "STATE_CODE":"ID",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":5610,
+    "Total Deaths":63400,
+    "Pneumonia Deaths":4963,
+    "Influenza Deaths":143
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.400898,40.802312 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "id":14,
+    "STATE":"Illinois",
+    "Pop_2020":12587530,
+    "STATE_CODE":"IL",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":38724,
+    "Total Deaths":446027,
+    "Pneumonia Deaths":40434,
+    "Influenza Deaths":596
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.62,39.995833 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "id":15,
+    "STATE":"Indiana",
+    "Pop_2020":6754953,
+    "STATE_CODE":"IN",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":26885,
+    "Total Deaths":282262,
+    "Pneumonia Deaths":28183,
+    "Influenza Deaths":517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.060835,42.552722 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "id":16,
+    "STATE":"Iowa",
+    "Pop_2020":3163561,
+    "STATE_CODE":"IA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":11026,
+    "Total Deaths":125759,
+    "Pneumonia Deaths":9920,
+    "Influenza Deaths":316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.207103,37.962597 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "id":17,
+    "STATE":"Kansas",
+    "Pop_2020":2913805,
+    "STATE_CODE":"KS",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":10152,
+    "Total Deaths":112874,
+    "Pneumonia Deaths":9512,
+    "Influenza Deaths":309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.681667,37.253889 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "id":18,
+    "STATE":"Kentucky",
+    "Pop_2020":4477251,
+    "STATE_CODE":"KY",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":20274,
+    "Total Deaths":209080,
+    "Pneumonia Deaths":23589,
+    "Influenza Deaths":511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.142655,29.958828 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "id":19,
+    "STATE":"Louisiana",
+    "Pop_2020":4645318,
+    "STATE_CODE":"LA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":17722,
+    "Total Deaths":199509,
+    "Pneumonia Deaths":15749,
+    "Influenza Deaths":227
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.52514,45.279838 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "id":20,
+    "STATE":"Maine",
+    "Pop_2020":1350141,
+    "STATE_CODE":"ME",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":3235,
+    "Total Deaths":61645,
+    "Pneumonia Deaths":4231,
+    "Influenza Deaths":137
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.744104,38.249554 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "id":21,
+    "STATE":"Maryland",
+    "Pop_2020":6055802,
+    "STATE_CODE":"MD",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":18143,
+    "Total Deaths":209247,
+    "Pneumonia Deaths":18402,
+    "Influenza Deaths":327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.954293,42.116715 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "id":22,
+    "STATE":"Massachusetts",
+    "Pop_2020":6893574,
+    "STATE_CODE":"MA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":21286,
+    "Total Deaths":240422,
+    "Pneumonia Deaths":20840,
+    "Influenza Deaths":557
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.501389,44.771944 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "id":23,
+    "STATE":"Michigan",
+    "Pop_2020":9966555,
+    "STATE_CODE":"MI",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":37102,
+    "Total Deaths":412252,
+    "Pneumonia Deaths":36871,
+    "Influenza Deaths":673
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.503569,47.315597 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "id":24,
+    "STATE":"Minnesota",
+    "Pop_2020":5657342,
+    "STATE_CODE":"MN",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":15298,
+    "Total Deaths":188637,
+    "Pneumonia Deaths":14526,
+    "Influenza Deaths":382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.568835,34.455553 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "id":25,
+    "STATE":"Mississippi",
+    "Pop_2020":2966786,
+    "STATE_CODE":"MS",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":14955,
+    "Total Deaths":139919,
+    "Pneumonia Deaths":15666,
+    "Influenza Deaths":267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.368336,38.412473 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "id":26,
+    "STATE":"Missouri",
+    "Pop_2020":6151548,
+    "STATE_CODE":"MO",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":23363,
+    "Total Deaths":273827,
+    "Pneumonia Deaths":23155,
+    "Influenza Deaths":578
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.469171,45.515356 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "id":27,
+    "STATE":"Montana",
+    "Pop_2020":1080577,
+    "STATE_CODE":"MT",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":3961,
+    "Total Deaths":44283,
+    "Pneumonia Deaths":3793,
+    "Influenza Deaths":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.956282,41.347901 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "id":28,
+    "STATE":"Nebraska",
+    "Pop_2020":1937552,
+    "STATE_CODE":"NE",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":5815,
+    "Total Deaths":70422,
+    "Pneumonia Deaths":6148,
+    "Influenza Deaths":164
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.308032,37.325866 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "id":29,
+    "STATE":"Nevada",
+    "Pop_2020":3138259,
+    "STATE_CODE":"NV",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":12259,
+    "Total Deaths":117594,
+    "Pneumonia Deaths":15426,
+    "Influenza Deaths":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.2925,43.217778 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "id":30,
+    "STATE":"New Hampshire",
+    "Pop_2020":1366275,
+    "STATE_CODE":"NH",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":3112,
+    "Total Deaths":51581,
+    "Pneumonia Deaths":3286,
+    "Influenza Deaths":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.503106,39.462368 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "id":31,
+    "STATE":"New Jersey",
+    "Pop_2020":8882371,
+    "STATE_CODE":"NJ",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":35691,
+    "Total Deaths":312963,
+    "Pneumonia Deaths":31031,
+    "Influenza Deaths":363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.244859,36.176923 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "id":32,
+    "STATE":"New Mexico",
+    "Pop_2020":2106319,
+    "STATE_CODE":"NM",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":8963,
+    "Total Deaths":84955,
+    "Pneumonia Deaths":8783,
+    "Influenza Deaths":184
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.235336,41.808308 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "id":33,
+    "STATE":"New York",
+    "Pop_2020":19336776,
+    "STATE_CODE":"NY",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":42273,
+    "Total Deaths":422387,
+    "Pneumonia Deaths":44547,
+    "Influenza Deaths":789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.445039,35.121641 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "id":34,
+    "STATE":"North Carolina",
+    "Pop_2020":10600823,
+    "STATE_CODE":"NC",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":34383,
+    "Total Deaths":417304,
+    "Pneumonia Deaths":38593,
+    "Influenza Deaths":728
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.73,46.447778 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "id":35,
+    "STATE":"North Dakota",
+    "Pop_2020":765309,
+    "STATE_CODE":"ND",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":3101,
+    "Total Deaths":29913,
+    "Pneumonia Deaths":3427,
+    "Influenza Deaths":93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.763723,38.670864 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "id":36,
+    "STATE":"Ohio",
+    "Pop_2020":11693217,
+    "STATE_CODE":"OH",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":49729,
+    "Total Deaths":517794,
+    "Pneumonia Deaths":45127,
+    "Influenza Deaths":860
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.386944,33.833333 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "id":37,
+    "STATE":"Oklahoma",
+    "Pop_2020":3980783,
+    "STATE_CODE":"OK",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":18520,
+    "Total Deaths":171792,
+    "Pneumonia Deaths":18621,
+    "Influenza Deaths":492
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.617582,45.749678 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "id":38,
+    "STATE":"Oregon",
+    "Pop_2020":4241507,
+    "STATE_CODE":"OR",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":9232,
+    "Total Deaths":158968,
+    "Pneumonia Deaths":9328,
+    "Influenza Deaths":345
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.387977,40.876944 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "id":39,
+    "STATE":"Pennsylvania",
+    "Pop_2020":12783254,
+    "STATE_CODE":"PA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":53049,
+    "Total Deaths":557522,
+    "Pneumonia Deaths":45898,
+    "Influenza Deaths":947
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.131667,41.554444 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "id":40,
+    "STATE":"Rhode Island",
+    "Pop_2020":1057125,
+    "STATE_CODE":"RI",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":4083,
+    "Total Deaths":42462,
+    "Pneumonia Deaths":3356,
+    "Influenza Deaths":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.378452,34.18186 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "id":41,
+    "STATE":"South Carolina",
+    "Pop_2020":5218040,
+    "STATE_CODE":"SC",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":20842,
+    "Total Deaths":224379,
+    "Pneumonia Deaths":18831,
+    "Influenza Deaths":362
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.485642,45.466109 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "id":42,
+    "STATE":"South Dakota",
+    "Pop_2020":892717,
+    "STATE_CODE":"SD",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":3472,
+    "Total Deaths":34467,
+    "Pneumonia Deaths":3539,
+    "Influenza Deaths":111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.122626,36.558174 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "id":43,
+    "STATE":"Tennessee",
+    "Pop_2020":6886834,
+    "STATE_CODE":"TN",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":30408,
+    "Total Deaths":330056,
+    "Pneumonia Deaths":33396,
+    "Influenza Deaths":689
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.067146,31.891642 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "id":44,
+    "STATE":"Texas",
+    "Pop_2020":29360759,
+    "STATE_CODE":"TX",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":104421,
+    "Total Deaths":931558,
+    "Pneumonia Deaths":104650,
+    "Influenza Deaths":1570
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.768861,40.461591 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "id":45,
+    "STATE":"Utah",
+    "Pop_2020":3249879,
+    "STATE_CODE":"UT",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":5867,
+    "Total Deaths":83772,
+    "Pneumonia Deaths":6210,
+    "Influenza Deaths":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.504649,44.35747 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "id":46,
+    "STATE":"Vermont",
+    "Pop_2020":623347,
+    "STATE_CODE":"VT",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":976,
+    "Total Deaths":23816,
+    "Pneumonia Deaths":1365,
+    "Influenza Deaths":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.019989,36.691644 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "id":47,
+    "STATE":"Virginia",
+    "Pop_2020":8590563,
+    "STATE_CODE":"VA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":23148,
+    "Total Deaths":301033,
+    "Pneumonia Deaths":21015,
+    "Influenza Deaths":430
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.79629,46.984293 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "id":48,
+    "STATE":"Washington",
+    "Pop_2020":7693612,
+    "STATE_CODE":"WA",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":15078,
+    "Total Deaths":246807,
+    "Pneumonia Deaths":19781,
+    "Influenza Deaths":546
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.837222,37.768611 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "id":49,
+    "STATE":"West Virginia",
+    "Pop_2020":1784787,
+    "STATE_CODE":"WV",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":8339,
+    "Total Deaths":98692,
+    "Pneumonia Deaths":10709,
+    "Influenza Deaths":203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.299438,44.964057 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "id":50,
+    "STATE":"Wisconsin",
+    "Pop_2020":5832655,
+    "STATE_CODE":"WI",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":17064,
+    "Total Deaths":223540,
+    "Pneumonia Deaths":14520,
+    "Influenza Deaths":424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.941976,42.712829 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "id":51,
+    "STATE":"Wyoming",
+    "Pop_2020":582328,
+    "STATE_CODE":"WY",
+    "Data As Of":"2023-09-27",
+    "Totals By":"By Total",
+    "Sex":"All Sexes",
+    "Age Group":"All Ages",
+    "COVID-19 Deaths":1855,
+    "Total Deaths":20597,
+    "Pneumonia Deaths":1859,
+    "Influenza Deaths":34
+    }
+  }
+]
+}

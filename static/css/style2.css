@@ -1,0 +1,18 @@
+body {
+    background-color: gainsboro;
+}
+.scroll {
+    max-height: 580px;
+    overflow: scroll
+}
+.scroll thead th {
+    position: sticky;
+    top: 0
+}
+table#covid thead th {
+  text-align: center;
+  background-color: lightyellow;
+}
+.navbar {
+    height: 40px;
+}
