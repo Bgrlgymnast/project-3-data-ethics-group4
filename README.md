@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project-3-data-ethics-group4
 Group Project that uses Data Visualizations or Data Engineering.
 
@@ -107,3 +108,5 @@ Specifically this project will review:
     - References for the data source(s)
 
     - References for any code used that is not your own
+=======
+>>>>>>> 74b26a5819278b0c9cde9163de07a622b89c1d67

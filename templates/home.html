@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="row justify-content-center">
+        <div class="col">
+            <div class="accordion" id="tableFiltersAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            Filters
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#tableFiltersAccordion">
+                        <div class="accordion-body">
+                            <form>
+                                <div class="row">
+                                    <div class="col-md">
+                                        <label for="death_type">Death Type:</label>
+                                        <select class="form-select" id="death_type" name="death_type">
+                                            <option>COVID-19 Deaths</option>
+                                            <option>Influenza Deaths</option>
+                                            <option>Pneumonia Deaths</option>
+                                            <option>Total Deaths</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md">
+                                        <label for="death_type">Map Shading Type:</label>
+                                        <select class="form-control" id="shading_type" name="shading_type">
+                                            <option>Male/Female %</option>
+                                            <option>Total Numbers</option>
+                                            <option>Per Capita %</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md">
+                                        <label for="state">State:</label>
+                                        <select class="form-control" id="state" name="state"></select>
+                                    </div>
+                                    <div class="col-md">
+                                        <label for="sex">Sex:</label>
+                                        <select class="form-control" id="sex" name="sex"></select>
+                                    </div>
+                                    <br>
+                                    <div class="col-md">
+                                        <label for="age">Age:</label>
+                                        <select class="form-control" id="age" name="age"></select>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <div id="choropleth"></div>
+        </div>
+        <div class="col-md-4 text-center">
+            <div id="pie"></div>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-12 text-center">
+            <div id="bar"></div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col">
+            <button id="btnExportToCsv" type="button" class="button">Export</button>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-12 text-center">
+            <div class="table-responsive scroll">
+                {{ table_data | safe }}
+            </div>
+        </div>
+    </div>
+    <br>
+{% endblock %}

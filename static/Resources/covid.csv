@@ -1,0 +1,54 @@
+id,Data As Of,Totals By,STATE,Sex,Age Group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Influenza Deaths
+51,2023-09-27,By Total,Alabama,All Sexes,All Ages,21520,231602,17619,356
+102,2023-09-27,By Total,Alaska,All Sexes,All Ages,1492,20039,1486,48
+153,2023-09-27,By Total,Arizona,All Sexes,All Ages,30307,284393,30328,377
+204,2023-09-27,By Total,Arkansas,All Sexes,All Ages,12663,140174,13453,287
+255,2023-09-27,By Total,California,All Sexes,All Ages,109248,1178346,125177,1753
+306,2023-09-27,By Total,Colorado,All Sexes,All Ages,15378,176094,15215,394
+357,2023-09-27,By Total,Connecticut,All Sexes,All Ages,12571,130502,10461,216
+408,2023-09-27,By Total,Delaware,All Sexes,All Ages,3445,41037,3448,64
+459,2023-09-27,By Total,District of Columbia,All Sexes,All Ages,2231,25770,3010,26
+510,2023-09-27,By Total,Florida,All Sexes,All Ages,81894,915140,97245,1270
+561,2023-09-27,By Total,Georgia,All Sexes,All Ages,36499,384074,34155,526
+612,2023-09-27,By Total,Hawaii,All Sexes,All Ages,1943,47252,3635,65
+663,2023-09-27,By Total,Idaho,All Sexes,All Ages,5610,63400,4963,143
+714,2023-09-27,By Total,Illinois,All Sexes,All Ages,38724,446027,40434,596
+765,2023-09-27,By Total,Indiana,All Sexes,All Ages,26885,282262,28183,517
+816,2023-09-27,By Total,Iowa,All Sexes,All Ages,11026,125759,9920,316
+867,2023-09-27,By Total,Kansas,All Sexes,All Ages,10152,112874,9512,309
+918,2023-09-27,By Total,Kentucky,All Sexes,All Ages,20274,209080,23589,511
+969,2023-09-27,By Total,Louisiana,All Sexes,All Ages,17722,199509,15749,227
+1020,2023-09-27,By Total,Maine,All Sexes,All Ages,3235,61645,4231,137
+1071,2023-09-27,By Total,Maryland,All Sexes,All Ages,18143,209247,18402,327
+1122,2023-09-27,By Total,Massachusetts,All Sexes,All Ages,21286,240422,20840,557
+1173,2023-09-27,By Total,Michigan,All Sexes,All Ages,37102,412252,36871,673
+1224,2023-09-27,By Total,Minnesota,All Sexes,All Ages,15298,188637,14526,382
+1275,2023-09-27,By Total,Mississippi,All Sexes,All Ages,14955,139919,15666,267
+1326,2023-09-27,By Total,Missouri,All Sexes,All Ages,23363,273827,23155,578
+1377,2023-09-27,By Total,Montana,All Sexes,All Ages,3961,44283,3793,109
+1428,2023-09-27,By Total,Nebraska,All Sexes,All Ages,5815,70422,6148,164
+1479,2023-09-27,By Total,Nevada,All Sexes,All Ages,12259,117594,15426,200
+1530,2023-09-27,By Total,New Hampshire,All Sexes,All Ages,3112,51581,3286,100
+1581,2023-09-27,By Total,New Jersey,All Sexes,All Ages,35691,312963,31031,363
+1632,2023-09-27,By Total,New Mexico,All Sexes,All Ages,8963,84955,8783,184
+1683,2023-09-27,By Total,New York,All Sexes,All Ages,42273,422387,44547,789
+1734,2023-09-27,By Total,New York City,All Sexes,All Ages,38167,245459,28332,1251
+1785,2023-09-27,By Total,North Carolina,All Sexes,All Ages,34383,417304,38593,728
+1836,2023-09-27,By Total,North Dakota,All Sexes,All Ages,3101,29913,3427,93
+1887,2023-09-27,By Total,Ohio,All Sexes,All Ages,49729,517794,45127,860
+1938,2023-09-27,By Total,Oklahoma,All Sexes,All Ages,18520,171792,18621,492
+1989,2023-09-27,By Total,Oregon,All Sexes,All Ages,9232,158968,9328,345
+2040,2023-09-27,By Total,Pennsylvania,All Sexes,All Ages,53049,557522,45898,947
+2091,2023-09-27,By Total,Rhode Island,All Sexes,All Ages,4083,42462,3356,77
+2142,2023-09-27,By Total,South Carolina,All Sexes,All Ages,20842,224379,18831,362
+2193,2023-09-27,By Total,South Dakota,All Sexes,All Ages,3472,34467,3539,111
+2244,2023-09-27,By Total,Tennessee,All Sexes,All Ages,30408,330056,33396,689
+2295,2023-09-27,By Total,Texas,All Sexes,All Ages,104421,931558,104650,1570
+2346,2023-09-27,By Total,Utah,All Sexes,All Ages,5867,83772,6210,176
+2397,2023-09-27,By Total,Vermont,All Sexes,All Ages,976,23816,1365,60
+2448,2023-09-27,By Total,Virginia,All Sexes,All Ages,23148,301033,21015,430
+2499,2023-09-27,By Total,Washington,All Sexes,All Ages,15078,246807,19781,546
+2550,2023-09-27,By Total,West Virginia,All Sexes,All Ages,8339,98692,10709,203
+2601,2023-09-27,By Total,Wisconsin,All Sexes,All Ages,17064,223540,14520,424
+2652,2023-09-27,By Total,Wyoming,All Sexes,All Ages,1855,20597,1859,34
+2703,2023-09-27,By Total,Puerto Rico,All Sexes,All Ages,6407,125067,17492,300
