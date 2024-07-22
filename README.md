@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project-3-data-ethics-group4
 Group Project that uses Data Visualizations or Data Engineering.
 
@@ -33,6 +34,7 @@ Specifically this project will review:
 - https://stackoverflow.com/questions/59193983/leaflet-show-popup-on-hover-with-the-location-of-the-mouse
 - https://github.com/TheRensselaerIDEA/COVIDMINDER/issues/102
 - https://www.rdocumentation.org/packages/leafletCN/versions/0.2.2/topics/addTitle
+- https://www.usnews.com/news/best-states/slideshows/the-most-obese-states-in-america
 
 # Data Visualization Track Requirements
 ## Data and Delivery
@@ -106,3 +108,5 @@ Specifically this project will review:
     - References for the data source(s)
 
     - References for any code used that is not your own
+=======
+>>>>>>> 74b26a5819278b0c9cde9163de07a622b89c1d67
