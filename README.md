@@ -35,6 +35,10 @@ Specifically this project will review:
 - https://github.com/TheRensselaerIDEA/COVIDMINDER/issues/102
 - https://www.rdocumentation.org/packages/leafletCN/versions/0.2.2/topics/addTitle
 - https://www.usnews.com/news/best-states/slideshows/the-most-obese-states-in-america
+- https://icons8.com/icon/10221/coronavirus
+- https://matplotlib.org/stable/gallery/index.html
+- https://www.openstreetmap.org/#map=4/38.58/-94.18
+
 
 # Data Visualization Track Requirements
 ## Data and Delivery
