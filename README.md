@@ -20,6 +20,8 @@ Specifically this project will review:
 
 
 ## References
+- Teacher and TA
+
 ### Websites used:
 - https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku/about_data
 - https://www.census.gov/data.html
