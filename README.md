@@ -1,6 +1,9 @@
 # project-3-data-ethics-group4
 Group Project that uses Data Visualizations.
 
+## Group Project Link 
+https://covid-project-nj7f.onrender.com/
+
 ## Group Contributors
 - Brittany Douville
 - Dee Dixon
